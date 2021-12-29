@@ -1,0 +1,38 @@
+.logo {
+    text-align: center;
+}
+.search{
+    text-align: center;
+}
+
+.search .input_search{
+    margin:5px;
+}
+.footer{
+    text-align: center;
+}
+.footer .footer1{
+    width: 600px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    background-color: darkseagreen;
+    margin:5px;
+   
+}
+.footer .footer1 a, .footer .footer1 p{
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
+.footer .footer1 input{
+    display: block;
+   margin:auto;
+}
+.footer .footer1 .a_archive{
+    display: inline-block;
+}
+.copyright{
+    text-align: center;
+}
